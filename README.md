@@ -39,6 +39,7 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 
 **Required Calculations:**
 <img width="1548" height="298" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
+<img width="1204" height="1600" alt="7e3fba26-7379-4938-b47c-6aa029d697e1" src="https://github.com/user-attachments/assets/a4ad592d-a674-46c1-bd07-b544143a5f99" />
 
 
 ## Layout
@@ -61,10 +62,8 @@ Place and connect the following components:
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
+<img width="1600" height="900" alt="593507352-53ce561a-9d62-4313-ab03-2ae59969e8ce" src="https://github.com/user-attachments/assets/fb13ccfb-c384-48e1-b6d1-2f7049014369" />
 
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
-
-
-
